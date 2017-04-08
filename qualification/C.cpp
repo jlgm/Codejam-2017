@@ -23,7 +23,7 @@ int main() {
 
     int t; scanf("%d", &t); fr(caso, 1,t+1) {
         scanf("%lld%lld", &n, &k);
-        
+
     }
 
     return 0;
